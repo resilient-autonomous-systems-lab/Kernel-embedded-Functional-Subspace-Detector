@@ -4,7 +4,7 @@ Attacks Detector using Kernel Functional Subspaces Theory
 
 ** kernel-embedded functional subspace detector (KEFSD) **
 
-** Implementation was done in MATLAB R2024a **
+** Implementation was done in MATLAB R2024a and requires matpower**
 
 ** Author: Andrew Omiloli
 ** Date: 6/16/2026
